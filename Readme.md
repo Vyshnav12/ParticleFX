@@ -19,8 +19,8 @@ ParticleFX is a high-performance particle rendering system that implements and a
 1. Clone the repository:
 
     ```bash
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone https://github.com/Vyshnav12/ParticleFX.git
+    cd ParticleFX
     ```
 
 2. Build the project:
